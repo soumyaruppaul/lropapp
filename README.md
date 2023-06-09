@@ -1,7 +1,7 @@
 # A List Report Object Page App with SAP Fiori Tools
 I have used SAP Fiori tools to create an app featuring a list of objects, with additional pages that provide more detailed information about the items in the list.
 
-I have used Visual Studio Code as the IDE with SAP Fiori Tools extension pack. 
+I have used Visual Studio Code as the IDE with SAP Fiori Tools extension pack. For the backend I have used mock data connecting to my SAP Gateway - Demo System (ES5).
 
 Things that I have learned:
 
